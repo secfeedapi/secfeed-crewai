@@ -5,7 +5,7 @@ Give your CrewAI agents SEC EDGAR data: 10-K and 10-Q sections, XBRL financial s
 No vector store, no embeddings and no OpenAI key needed for the tools: SecFeed returns the exact filing section (Risk Factors, MD&A, Business), and the tool hands your agent the paragraphs that match its question.
 
 ```bash
-pip install "secfeed-crewai @ git+https://github.com/secfeedapi/secfeed-crewai"
+pip install secfeed-crewai
 export SECFEED_API_KEY=sf_...   # free key: https://secfeedapi.com/signup/
 ```
 
