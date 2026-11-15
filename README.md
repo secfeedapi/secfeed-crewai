@@ -21,6 +21,8 @@ analyst = Agent(
 )
 ```
 
+Full walkthrough with real output: [CrewAI SEC filing tools guide](https://secfeedapi.com/tutorials/crewai-sec-filing-tools/).
+
 ## Tools
 
 | Tool | What the agent gets | API calls |
