@@ -71,6 +71,7 @@ You drop `unstructured`, `faiss` and the embeddings call, and the agent reads th
 
 ## Also available
 
+- [secfeed-langchain](https://github.com/secfeedapi/secfeed-langchain): the same tools for LangChain and LangGraph agents
 - [secfeed](https://pypi.org/project/secfeed/) Python and Node SDKs for every SecFeed endpoint (13F holdings, Form D, full text search, XBRL frames and more)
 - [SecFeed MCP server](https://secfeedapi.com/mcp/) for Claude, Cursor and other MCP clients
 
